@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am Anson Lam, a university student majoring in Artificial Intelligence (AI).
+
 <!--
 **anson416/anson416** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
